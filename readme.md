@@ -28,4 +28,4 @@ git commit -m"CSS fájl módosítva"  --> változtatások rögzítése
 
 
 git remote add origin https://github.com/pmarika26/GIT-vizsga-0420. -->  gyűjtemény megadása
-git push -u origin main --> feltöltés gyűjteménybe
+git push -u origin console --> feltöltés gyűjteménybe
